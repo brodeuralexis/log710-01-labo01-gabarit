@@ -1,0 +1,45 @@
+### C ###
+# Prérequis
+*.d
+
+# Objets
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker
+*.ilk
+*.map
+*.exp
+
+# Librairies
+*.lib
+*.a
+*.la
+*.lo
+
+# Objets partagés
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Exécutables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Fichiers de déboguage.
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+### Laboratoire  ###
+RunCmd
+Log710Shell
+Log710Shell2
